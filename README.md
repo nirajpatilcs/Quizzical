@@ -1,6 +1,8 @@
 ## Quizzical Game
 
-This is a quiz game made by me using RESTful APIs, React, HTML & CSS 
+This is a solo project I made during my Scrimba Frontend Certification.
+
+Technology Stack: React, HTML, CSS and RESTful APIs
 
 ----
 
