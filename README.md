@@ -1,4 +1,4 @@
-#Quizzical Game
+## Quizzical Game
 
 This is a quiz game made by me using RESTful APIs, React, HTML & CSS 
 
